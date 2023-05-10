@@ -1,0 +1,334 @@
+####00 bongbong   #只用bert-base
+******************************Epoch: 1******************************
+Batch: 1/51     Loss:0.670
+Batch: 6/51     Loss:0.738
+Batch: 11/51    Loss:0.690
+Batch: 16/51    Loss:0.628
+Batch: 21/51    Loss:0.568
+Batch: 26/51    Loss:0.544
+Batch: 31/51    Loss:0.556
+Batch: 36/51    Loss:0.498
+Batch: 41/51    Loss:0.532
+Batch: 46/51    Loss:0.352
+Batch: 51/51    Loss:0.491
+Epoch: 1        Train Loss: 0.584       Val F1: 0.893
+Val F1_favor: 0.900     Val F1_against: 0.886   Val F1_Neutral: 0.000
+Best Epoch: 1   Best Epoch Val F1: 0.893
+
+******************************Epoch: 2******************************
+Batch: 1/51     Loss:0.254
+Batch: 6/51     Loss:0.248
+Batch: 11/51    Loss:0.214
+Batch: 16/51    Loss:0.290
+Batch: 21/51    Loss:0.289
+Batch: 26/51    Loss:0.311
+Batch: 31/51    Loss:0.149
+Batch: 36/51    Loss:0.204
+Batch: 41/51    Loss:0.149
+Batch: 46/51    Loss:0.268
+Batch: 51/51    Loss:0.145
+Epoch: 2        Train Loss: 0.289       Val F1: 0.943
+Val F1_favor: 0.943     Val F1_against: 0.943   Val F1_Neutral: 0.000
+Best Epoch: 2   Best Epoch Val F1: 0.943
+
+******************************Epoch: 3******************************
+Batch: 1/51     Loss:0.248
+Batch: 6/51     Loss:0.355
+Batch: 11/51    Loss:0.081
+Batch: 16/51    Loss:0.114
+Batch: 21/51    Loss:0.215
+Batch: 26/51    Loss:0.161
+Batch: 31/51    Loss:0.070
+Batch: 36/51    Loss:0.088
+Batch: 41/51    Loss:0.063
+Batch: 46/51    Loss:0.207
+Batch: 51/51    Loss:0.036
+Epoch: 3        Train Loss: 0.185       Val F1: 0.943
+Val F1_favor: 0.942     Val F1_against: 0.944   Val F1_Neutral: 0.000
+Best Epoch: 2   Best Epoch Val F1: 0.943
+
+******************************Epoch: 4******************************
+Batch: 1/51     Loss:0.038
+Batch: 6/51     Loss:0.055
+Batch: 11/51    Loss:0.324
+Batch: 16/51    Loss:0.052
+Batch: 21/51    Loss:0.210
+Batch: 26/51    Loss:0.135
+Batch: 31/51    Loss:0.028
+Batch: 36/51    Loss:0.236
+Batch: 41/51    Loss:0.044
+Batch: 46/51    Loss:0.237
+Batch: 51/51    Loss:0.035
+Epoch: 4        Train Loss: 0.102       Val F1: 0.958
+Val F1_favor: 0.959     Val F1_against: 0.957   Val F1_Neutral: 0.000
+Best Epoch: 4   Best Epoch Val F1: 0.958
+
+******************************Epoch: 5******************************
+Batch: 1/51     Loss:0.129
+Batch: 6/51     Loss:0.022
+Batch: 11/51    Loss:0.042
+Batch: 16/51    Loss:0.037
+Batch: 21/51    Loss:0.035
+Batch: 26/51    Loss:0.031
+Batch: 31/51    Loss:0.029
+Batch: 36/51    Loss:0.025
+Batch: 41/51    Loss:0.049
+Batch: 46/51    Loss:0.022
+Batch: 51/51    Loss:0.031
+Epoch: 5        Train Loss: 0.063       Val F1: 0.962
+Val F1_favor: 0.961     Val F1_against: 0.963   Val F1_Neutral: 0.000
+Best Epoch: 5   Best Epoch Val F1: 0.962
+
+******************************Epoch: 6******************************
+Batch: 1/51     Loss:0.132
+Batch: 6/51     Loss:0.164
+Batch: 11/51    Loss:0.023
+Batch: 16/51    Loss:0.059
+Batch: 21/51    Loss:0.273
+Batch: 26/51    Loss:0.013
+Batch: 31/51    Loss:0.022
+Batch: 36/51    Loss:0.016
+Batch: 41/51    Loss:0.012
+Batch: 46/51    Loss:0.010
+Batch: 51/51    Loss:0.013
+Epoch: 6        Train Loss: 0.042       Val F1: 0.970
+Val F1_favor: 0.970     Val F1_against: 0.969   Val F1_Neutral: 0.000
+Best Epoch: 6   Best Epoch Val F1: 0.970
+
+******************************Epoch: 7******************************
+Batch: 1/51     Loss:0.011
+Batch: 6/51     Loss:0.009
+Batch: 11/51    Loss:0.022
+Batch: 16/51    Loss:0.009
+Batch: 21/51    Loss:0.070
+Batch: 26/51    Loss:0.010
+Batch: 31/51    Loss:0.011
+Batch: 36/51    Loss:0.011
+Batch: 41/51    Loss:0.009
+Batch: 46/51    Loss:0.009
+Batch: 51/51    Loss:0.007
+Epoch: 7        Train Loss: 0.020       Val F1: 0.973
+Val F1_favor: 0.973     Val F1_against: 0.973   Val F1_Neutral: 0.000
+Best Epoch: 7   Best Epoch Val F1: 0.973
+
+******************************Epoch: 8******************************
+Batch: 1/51     Loss:0.008
+Batch: 6/51     Loss:0.009
+Batch: 11/51    Loss:0.009
+Batch: 16/51    Loss:0.026
+Batch: 21/51    Loss:0.006
+Batch: 26/51    Loss:0.017
+Batch: 31/51    Loss:0.006
+Batch: 36/51    Loss:0.006
+Batch: 41/51    Loss:0.007
+Batch: 46/51    Loss:0.014
+Batch: 51/51    Loss:0.004
+Epoch: 8        Train Loss: 0.010       Val F1: 0.973
+Val F1_favor: 0.974     Val F1_against: 0.973   Val F1_Neutral: 0.000
+Best Epoch: 7   Best Epoch Val F1: 0.973
+
+******************************Epoch: 9******************************
+Batch: 1/51     Loss:0.006
+Batch: 6/51     Loss:0.007
+Batch: 11/51    Loss:0.069
+Batch: 16/51    Loss:0.012
+Batch: 21/51    Loss:0.006
+Batch: 26/51    Loss:0.008
+Batch: 31/51    Loss:0.006
+Batch: 36/51    Loss:0.007
+Batch: 41/51    Loss:0.007
+Batch: 46/51    Loss:0.006
+Batch: 51/51    Loss:0.007
+Epoch: 9        Train Loss: 0.020       Val F1: 0.973
+Val F1_favor: 0.974     Val F1_against: 0.973   Val F1_Neutral: 0.000
+Best Epoch: 7   Best Epoch Val F1: 0.973
+
+******************************Epoch: 10******************************
+Batch: 1/51     Loss:0.007
+Batch: 6/51     Loss:0.011
+Batch: 11/51    Loss:0.005
+Batch: 16/51    Loss:0.005
+Batch: 21/51    Loss:0.004
+Batch: 26/51    Loss:0.014
+Batch: 31/51    Loss:0.003
+Batch: 36/51    Loss:0.006
+Batch: 41/51    Loss:0.022
+Batch: 46/51    Loss:0.004
+Batch: 51/51    Loss:0.004
+Epoch: 10       Train Loss: 0.013       Val F1: 0.973
+Val F1_favor: 0.974     Val F1_against: 0.973   Val F1_Neutral: 0.000
+Best Epoch: 7   Best Epoch Val F1: 0.973
+
+Saving the best checkpoint....
+Inference...
+Test F1: 0.962  Test F1_Favor: 0.964    Test F1_Against: 0.961  Test F1_Neutral: 0.000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+####10 bongbong   #只用bertweet
+******************************Epoch: 1******************************
+Batch: 1/51     Loss:0.687
+Batch: 6/51     Loss:0.673
+Batch: 11/51    Loss:0.669
+Batch: 16/51    Loss:0.622
+Batch: 21/51    Loss:0.592
+Batch: 26/51    Loss:0.523
+Batch: 31/51    Loss:0.507
+Batch: 36/51    Loss:0.417
+Batch: 41/51    Loss:0.349
+Batch: 46/51    Loss:0.376
+Batch: 51/51    Loss:0.234
+Epoch: 1        Train Loss: 0.517       Val F1: 0.928
+Val F1_favor: 0.925     Val F1_against: 0.930   Val F1_Neutral: 0.000
+Best Epoch: 1   Best Epoch Val F1: 0.928
+
+******************************Epoch: 2******************************
+Batch: 1/51     Loss:0.209
+Batch: 6/51     Loss:0.260
+Batch: 11/51    Loss:0.395
+Batch: 16/51    Loss:0.201
+Batch: 21/51    Loss:0.238
+Batch: 26/51    Loss:0.233
+Batch: 31/51    Loss:0.264
+Batch: 36/51    Loss:0.084
+Batch: 41/51    Loss:0.242
+Batch: 46/51    Loss:0.080
+Batch: 51/51    Loss:0.050
+Epoch: 2        Train Loss: 0.198       Val F1: 0.981
+Val F1_favor: 0.981     Val F1_against: 0.981   Val F1_Neutral: 0.000
+Best Epoch: 2   Best Epoch Val F1: 0.981
+
+******************************Epoch: 3******************************
+Batch: 1/51     Loss:0.049
+Batch: 6/51     Loss:0.233
+Batch: 11/51    Loss:0.253
+Batch: 16/51    Loss:0.263
+Batch: 21/51    Loss:0.053
+Batch: 26/51    Loss:0.042
+Batch: 31/51    Loss:0.117
+Batch: 36/51    Loss:0.046
+Batch: 41/51    Loss:0.302
+Batch: 46/51    Loss:0.029
+Batch: 51/51    Loss:0.060
+Epoch: 3        Train Loss: 0.103       Val F1: 0.981
+Val F1_favor: 0.981     Val F1_against: 0.981   Val F1_Neutral: 0.000
+Best Epoch: 2   Best Epoch Val F1: 0.981
+
+******************************Epoch: 4******************************
+Batch: 1/51     Loss:0.035
+Batch: 6/51     Loss:0.038
+Batch: 11/51    Loss:0.033
+Batch: 16/51    Loss:0.098
+Batch: 21/51    Loss:0.215
+Batch: 26/51    Loss:0.030
+Batch: 31/51    Loss:0.066
+Batch: 36/51    Loss:0.257
+Batch: 41/51    Loss:0.018
+Batch: 46/51    Loss:0.336
+Batch: 51/51    Loss:0.016
+Epoch: 4        Train Loss: 0.062       Val F1: 0.977
+Val F1_favor: 0.978     Val F1_against: 0.977   Val F1_Neutral: 0.000
+Best Epoch: 2   Best Epoch Val F1: 0.981
+
+******************************Epoch: 5******************************
+Batch: 1/51     Loss:0.029
+Batch: 6/51     Loss:0.025
+Batch: 11/51    Loss:0.110
+Batch: 16/51    Loss:0.071
+Batch: 21/51    Loss:0.271
+Batch: 26/51    Loss:0.016
+Batch: 31/51    Loss:0.016
+Batch: 36/51    Loss:0.096
+Batch: 41/51    Loss:0.014
+Batch: 46/51    Loss:0.018
+Batch: 51/51    Loss:0.020
+Epoch: 5        Train Loss: 0.065       Val F1: 0.989
+Val F1_favor: 0.989     Val F1_against: 0.989   Val F1_Neutral: 0.000
+Best Epoch: 5   Best Epoch Val F1: 0.989
+
+******************************Epoch: 6******************************
+Batch: 1/51     Loss:0.018
+Batch: 6/51     Loss:0.020
+Batch: 11/51    Loss:0.015
+Batch: 16/51    Loss:0.013
+Batch: 21/51    Loss:0.014
+Batch: 26/51    Loss:0.016
+Batch: 31/51    Loss:0.020
+Batch: 36/51    Loss:0.024
+Batch: 41/51    Loss:0.097
+Batch: 46/51    Loss:0.012
+Batch: 51/51    Loss:0.011
+Epoch: 6        Train Loss: 0.031       Val F1: 0.981
+Val F1_favor: 0.981     Val F1_against: 0.981   Val F1_Neutral: 0.000
+Best Epoch: 5   Best Epoch Val F1: 0.989
+
+******************************Epoch: 7******************************
+Batch: 1/51     Loss:0.013
+Batch: 6/51     Loss:0.009
+Batch: 11/51    Loss:0.009
+Batch: 16/51    Loss:0.010
+Batch: 21/51    Loss:0.008
+Batch: 26/51    Loss:0.008
+Batch: 31/51    Loss:0.007
+Batch: 36/51    Loss:0.007
+Batch: 41/51    Loss:0.008
+Batch: 46/51    Loss:0.009
+Batch: 51/51    Loss:0.009
+Epoch: 7        Train Loss: 0.023       Val F1: 0.981
+Val F1_favor: 0.981     Val F1_against: 0.981   Val F1_Neutral: 0.000
+Best Epoch: 5   Best Epoch Val F1: 0.989
+
+******************************Epoch: 8******************************
+Batch: 1/51     Loss:0.011
+Batch: 6/51     Loss:0.010
+Batch: 11/51    Loss:0.006
+Batch: 16/51    Loss:0.007
+Batch: 21/51    Loss:0.008
+Batch: 26/51    Loss:0.007
+Batch: 31/51    Loss:0.208
+Batch: 36/51    Loss:0.132
+Batch: 41/51    Loss:0.006
+Batch: 46/51    Loss:0.059
+Batch: 51/51    Loss:0.008
+Epoch: 8        Train Loss: 0.023       Val F1: 0.977
+Val F1_favor: 0.978     Val F1_against: 0.977   Val F1_Neutral: 0.000
+Best Epoch: 5   Best Epoch Val F1: 0.989
+
+******************************Epoch: 9******************************
+Batch: 1/51     Loss:0.284
+Batch: 6/51     Loss:0.007
+Batch: 11/51    Loss:0.010
+Batch: 16/51    Loss:0.006
+Batch: 21/51    Loss:0.006
+Batch: 26/51    Loss:0.005
+Batch: 31/51    Loss:0.008
+Batch: 36/51    Loss:0.006
+Batch: 41/51    Loss:0.006
+Batch: 46/51    Loss:0.005
+Batch: 51/51    Loss:0.006
+Epoch: 9        Train Loss: 0.019       Val F1: 0.985
+Val F1_favor: 0.985     Val F1_against: 0.985   Val F1_Neutral: 0.000
+Best Epoch: 5   Best Epoch Val F1: 0.989
+
+******************************Epoch: 10******************************
+Batch: 1/51     Loss:0.006
+Batch: 6/51     Loss:0.006
+Batch: 11/51    Loss:0.006
+Batch: 16/51    Loss:0.006
+Batch: 21/51    Loss:0.004
+Batch: 26/51    Loss:0.005
+Batch: 31/51    Loss:0.005
+Batch: 36/51    Loss:0.004
+Batch: 41/51    Loss:0.004
+Batch: 46/51    Loss:0.004
+Batch: 51/51    Loss:0.004
+Epoch: 10       Train Loss: 0.006       Val F1: 0.981
+Val F1_favor: 0.981     Val F1_against: 0.981   Val F1_Neutral: 0.000
+Best Epoch: 5   Best Epoch Val F1: 0.989
+
+Saving the best checkpoint....
+Inference...
+Test F1: 0.984  Test F1_Favor: 0.985    Test F1_Against: 0.983  Test F1_Neutral: 0.000
+
+---------------------------------------------------------------------------------------------------------------------------------
+####11 bongbong   #用bert-base与bertweet
